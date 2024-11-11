@@ -7,9 +7,7 @@ Flopbox is a file upload and download application with separate backend and fron
 - [Getting Started](#getting-started)
 - [Backend Setup](#backend-setup)
 - [Frontend Setup](#frontend-setup)
-- [Database](#database)
-- [Project Structure](#project-structure)
-- [Notes](#notes)
+- [Functionalities](#functionalities)
 
 ## Getting Started
 
