@@ -14,7 +14,7 @@ Flopbox is a file upload and download application with separate backend and fron
 1. **Clone the repository**:
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/MusaibShaikh/Flopbox.git
    cd Flopbox
 
 ## Backend Setup
