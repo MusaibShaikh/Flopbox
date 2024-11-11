@@ -24,12 +24,17 @@ The backend is located in the Flopbox/app directory and is built with FastAPI.
 ### Features
 The backend supports the following functionalities:
 
--User Registration: Create new users.
--User Login: Authenticate users.
--File Upload: Upload files associated with a user.
--List Files: Retrieve a list of files uploaded by the user.
--View File: View file details.
--Download File: Download a file uploaded by the user.
+1. User Registration: Create new users.
+
+2. User Login: Authenticate users.
+
+3. File Upload: Upload files associated with a user.
+
+4. List Files: Retrieve a list of files uploaded by the user.
+
+5. View File: View file details.
+
+6. Download File: Download a file uploaded by the user.
 
 ### Requirements
 Python 3.8+
